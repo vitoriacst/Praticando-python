@@ -1,0 +1,1 @@
+num1=int(input('write a number:'))
