@@ -1,0 +1,10 @@
+nós podemos usar o for em todas as estruturas de dados
+inclusive na tupla.
+
+1 - A tupla não possui índice
+2 - se substituir a tupla vamos substituir ela toda
+3 - no dicionário não temos índice
+4 - no dicionário os dados não estão ordenados
+5 - conjuntos não tem dados repetidos
+6 - auxiliam muito no armazenamento e busca de dados
+7 - nos conjuntos eles tem mais performace na busca de dados, retornando com mais rapidez
